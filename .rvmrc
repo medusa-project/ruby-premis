@@ -1,1 +1,1 @@
-rvm use ree@ruby-premis --create
+rvm use 1.9.3@ruby-premis --create
